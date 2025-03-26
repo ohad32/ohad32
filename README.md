@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🚀 **Working on**: Livhast & a live streaming site.<br>🤝 **Collab on**: Web & app development, Linux.<br>🛠 **Need help with**: React, Flutter, Java.<br>🌱 **Learning**: Java, React, AI web apps.<br>💬 **Ask me about**: Linux, web & app development.<br>⚡ **Fun fact**: I solve a 3x3 Rubik’s Cube in under 50s!
+🚀 **Working on** :  Livhast & a live streaming site.<br>🤝 **Collab on** :  Web & app development, Linux.<br>🛠 **Need help with** :  React, Flutter, Java.<br>🌱 **Learning** :  Java, React, AI web apps.<br>💬 **Ask me about** :  Linux, web & app development.<br>⚡ **Fun fact** :  I solve a 3x3 Rubik’s Cube in under 50s!
 
 
 ## 🌐 Socials:
