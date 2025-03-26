@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I'm Gowtham!<br><br>🎓 Passionate about tech, especially **web development**, **machine learning**, and **Linux**.<br><br>💻 Currently working on a **live streaming site** and a **documentary series**.<br><br>🌱 Always learning and experimenting with new ideas.<br><br>📫 Reach out at [graj200026@gmail.com] or explore my projects on GitHub!<br>
+👋 Hi, I'm Gowtham!<br><br>🎓 Passionate about tech, especially **web development**, **App Development**, and **Linux**.<br><br>💻 Currently working on a **live streaming site** and a **documentary series**.<br><br>🌱 Always learning and experimenting with new ideas.<br><br>📫 Reach out at [graj200026@gmail.com] or explore my projects on GitHub!<br>
 
 
 ## 🌐 Socials:
