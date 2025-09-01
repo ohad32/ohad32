@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # runs every day at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write  # required for committing files
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit SVGs to the repo
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "dist/*.svg"
+          message: "chore: update snake 🐍"
+          author_name: github-actions
+          author_email: actions@github.com
