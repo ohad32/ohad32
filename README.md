@@ -29,11 +29,13 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Gowtham-darkseid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🐍 Snake Eating My Contribution
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gowtham-darkseid/Gowtham-darkseid/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gowtham-darkseid/Gowtham-darkseid/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Gowtham-darkseid/Gowtham-darkseid/output/github-contribution-grid-snake.svg" />
 </picture>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Gowtham-darkseid&icon=0&color=0)](https://visitcount.itsvg.in)
 
