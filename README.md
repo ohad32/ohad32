@@ -2,7 +2,7 @@
 
 ![7he R4 (1)](https://github.com/user-attachments/assets/81ab113f-1afc-4afc-82aa-22fcaf19ff20)
 
-
+![hey i'm Gowtham Darkseid](./typing.svg)
 
 # 💫 About Me:
 👨‍💻 Building scalable SaaS & streaming apps  
