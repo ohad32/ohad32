@@ -1,6 +1,6 @@
 
 
-![7he R4 (1)](https://github.com/user-attachments/assets/81ab113f-1afc-4afc-82aa-22fcaf19ff20)
+![ce59d43c36f51096d5197c305c01a6cc-ezgif com-resize](https://github.com/user-attachments/assets/136e172f-92b8-42bf-886c-852ad49a904a)
 
                                            
 ![Anitta-Flores-Via-KLICKPIN-CF-unscreen-ezgif com-resize](https://github.com/user-attachments/assets/80b9f7e4-42a6-4972-a390-8e524af99ae8) ![hey i'm Gowtham Darkseid](./typing.svg)    ![d9aa796c0ba0d0eb22db2a8db886de-unscreen-ezgif com-resize (1)](https://github.com/user-attachments/assets/4042eae8-de0d-49a4-a81a-f5e23f9ba585)
