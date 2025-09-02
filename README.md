@@ -2,7 +2,9 @@
 
 ![7he R4 (1)](https://github.com/user-attachments/assets/81ab113f-1afc-4afc-82aa-22fcaf19ff20)
 
-![hey i'm Gowtham Darkseid](./typing.svg)
+                                           
+![hey i'm Gowtham Darkseid](./typing.svg)    ![d9aa796c0ba0d0eb22db2a8db886de-unscreen-ezgif com-resize (1)](https://github.com/user-attachments/assets/4042eae8-de0d-49a4-a81a-f5e23f9ba585)
+
 
 # 💫 About Me:
 👨‍💻 Building scalable SaaS & streaming apps  
