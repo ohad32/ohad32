@@ -1,9 +1,5 @@
 
-
-![BLOW](https://github.com/user-attachments/assets/bd78736e-303c-452d-b46a-ed0a34239044)
-
-                                           
-![Anitta-Flores-Via-KLICKPIN-CF-unscreen-ezgif com-resize](https://github.com/user-attachments/assets/80b9f7e4-42a6-4972-a390-8e524af99ae8) ![hey i'm Gowtham Darkseid](./typing.svg)    ![d9aa796c0ba0d0eb22db2a8db886de-unscreen-ezgif com-resize (1)](https://github.com/user-attachments/assets/4042eae8-de0d-49a4-a81a-f5e23f9ba585)
+![59871b625bd451a964de4337272953a3](https://github.com/user-attachments/assets/d264704f-59b9-447e-ba05-6a84eaf6ae99)
 
 
 # 💫 About Me:
