@@ -2,13 +2,21 @@
 ![59871b625bd451a964de4337272953a3](https://github.com/user-attachments/assets/d264704f-59b9-447e-ba05-6a84eaf6ae99)
 
 
-# 💫 About Me:
-👨‍💻 Building scalable SaaS & streaming apps  
-🤝 Collaborating on [![Open Source](https://img.shields.io/badge/-Open%20Source-181717?logo=github&logoColor=white)]() & [![Cloud](https://img.shields.io/badge/-Cloud-4285F4?logo=googlecloud&logoColor=white)]() projects  
-🛠 Passionate about [![DevOps](https://img.shields.io/badge/-DevOps-2496ED?logo=docker&logoColor=white)](), microservices & distributed systems  
-🌱 Exploring [![AI](https://img.shields.io/badge/-Artificial%20Intelligence-412991?logo=python&logoColor=white)]() + advanced system design  
-💬 Ask me about [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)](), backend optimization & full-stack dev  
-⚡ Fun fact: I love reverse-engineering & system programming  
+## ✨ About Me:
+
+👨‍💻 Building **secure, scalable full-stack web applications**
+
+🌐 Working with **React, Node.js, REST APIs & Cloud platforms**
+
+🛡️ Interested in **Cybersecurity, secure coding & system hardening**
+
+⚙️ Passionate about **backend architecture, performance & optimization**
+
+☁️ Exploring **Cloud, DevOps basics & distributed systems**
+
+🧠 Learning **AI concepts & modern system design**
+
+
 
 
 ## 🌐 Socials:
