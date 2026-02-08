@@ -105,7 +105,7 @@
 
 ### 🐍 Snake Eating My Contribution
 
-![snake gif](https://github.com/Gowtham-Darkseid/Gowtham-Darkseid/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/ohad32/ohad32/blob/output/github-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ohad32&icon=0&color=0)](https://visitcount.itsvg.in)
